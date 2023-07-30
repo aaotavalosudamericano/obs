@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "0d505027faf52881",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcbf9717771dbac6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "897febe17f28acf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4c07e24b4df84dd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "40a89bc35781029e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c866aea5099b60cd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "68c029b6fa632a46",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d71ff1d95d505133",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b4953a8a45ba3679",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6480afca030841b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "233127d3f71ed777",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5a36aaaac2786176",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6eb041fd3f849f2a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7ca81ad80bb1d719",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir quick switcher": false,
+      "graph:Abrir vista de gráfico": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "897febe17f28acf8",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "README.md",
+    "Pasted Image 20230724190300_335.png",
+    "Excalidraw/Drawing 2023-07-24 18.54.53.excalidraw.md",
+    "Excalidraw/Drawing 2023-07-24 18.54.53.excalidraw.png",
+    "Excalidraw"
+  ]
+}
