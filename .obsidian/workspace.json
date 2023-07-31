@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6c9bc1dcdf57ddaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dia 1/Clase1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Dia 1/Clase1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Dia 1/Clase1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Dia 1/Clase1.md"
               }
             }
           }
@@ -147,10 +160,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "897febe17f28acf8",
+  "active": "6c9bc1dcdf57ddaa",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "README.md",
+    "Dia 1/Clase1.md",
+    "Dia 1",
+    "Untitled.canvas",
     "Pasted Image 20230724190300_335.png",
     "Excalidraw/Drawing 2023-07-24 18.54.53.excalidraw.md",
     "Excalidraw/Drawing 2023-07-24 18.54.53.excalidraw.png",
