@@ -67,9 +67,11 @@
             "id": "029401774a3151a8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Dia 4/Chat/Chat AI.md"
+                "file": "Dia 3/Clase 3.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -152,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dia 4/Chat/Chat AI.md",
+                "file": "Dia 3/Clase 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dia 4/Chat/Chat AI.md",
+                "file": "Dia 3/Clase 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dia 4/Chat/Chat AI.md"
+                "file": "Dia 3/Clase 3.md"
               }
             }
           }
@@ -216,11 +218,11 @@
   },
   "active": "029401774a3151a8",
   "lastOpenFiles": [
+    "Dia 4/Chat/Chat AI.md",
     "Dia 4/Chat/Pasted Image 20230730200706_885.png",
     "Dia 4/Chat/Pasted Image 20230730200543_009.png",
     "Dia 4/Chat/Pasted Image 20230730200406_964.png",
     "Dia 4/Chat/Pasted Image 20230730200309_814.png",
-    "Dia 4/Chat/Chat AI.md",
     "Dia 4/Chat",
     "Dia 4/Clase 4 proyecto/Proyecto cats.md",
     "Untitled.canvas",
@@ -234,7 +236,6 @@
     "Dia 4/Clase 4 proyecto/Pasted Image 20230730192637_883.png",
     "Dia 4/Clase 4 proyecto/Pasted Image 20230730192956_216.png",
     "Dia 4/Clase 4 proyecto/Pasted Image 20230730192941_067.png",
-    "Dia 4/Clase 4 proyecto/Pasted Image 20230730192926_065.png",
     "Dia 4/Clase 4 proyecto",
     "2023-07-30.md",
     "Excalidraw/Drawing 2023-07-30 19.18.29.excalidraw.md",
