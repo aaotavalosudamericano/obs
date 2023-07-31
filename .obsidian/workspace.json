@@ -30,9 +30,63 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "78ebfc5995754d79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dia 3/Clase 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec4cf8be860a518c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dia 3/Clase 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3303f0403d3cfdb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "029401774a3151a8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Dia 4/Chat/Chat AI.md"
+              }
+            }
+          },
+          {
+            "id": "22d728e978b1e1db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dia 3/Clase 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -98,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dia 1/Clase1.md",
+                "file": "Dia 4/Chat/Chat AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dia 1/Clase1.md",
+                "file": "Dia 4/Chat/Chat AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dia 1/Clase1.md"
+                "file": "Dia 4/Chat/Chat AI.md"
               }
             }
           }
@@ -160,15 +214,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6c9bc1dcdf57ddaa",
+  "active": "029401774a3151a8",
   "lastOpenFiles": [
+    "Dia 4/Chat/Pasted Image 20230730200706_885.png",
+    "Dia 4/Chat/Pasted Image 20230730200543_009.png",
+    "Dia 4/Chat/Pasted Image 20230730200406_964.png",
+    "Dia 4/Chat/Pasted Image 20230730200309_814.png",
+    "Dia 4/Chat/Chat AI.md",
+    "Dia 4/Chat",
+    "Dia 4/Clase 4 proyecto/Proyecto cats.md",
+    "Untitled.canvas",
+    "Dia 3/Clase 3.md",
+    "Dia 3/Clase 3 proyecto/Snake-IA.md",
+    "Dia 3/Clase 3 proyecto/Pasted Image 20230730194512_625.png",
+    "Dia 3/Clase 3 proyecto/Pasted Image 20230730194635_900.png",
+    "Dia 3/Clase 3 proyecto/Pasted Image 20230730195758_889.png",
+    "Dia 3/Clase 3 proyecto",
+    "Dia 4",
+    "Dia 4/Clase 4 proyecto/Pasted Image 20230730192637_883.png",
+    "Dia 4/Clase 4 proyecto/Pasted Image 20230730192956_216.png",
+    "Dia 4/Clase 4 proyecto/Pasted Image 20230730192941_067.png",
+    "Dia 4/Clase 4 proyecto/Pasted Image 20230730192926_065.png",
+    "Dia 4/Clase 4 proyecto",
+    "2023-07-30.md",
+    "Excalidraw/Drawing 2023-07-30 19.18.29.excalidraw.md",
+    "Dia 2/Clase 2.md",
+    "Dia 3",
     "README.md",
     "Dia 1/Clase1.md",
+    "Dia 2",
     "Dia 1",
-    "Untitled.canvas",
-    "Pasted Image 20230724190300_335.png",
-    "Excalidraw/Drawing 2023-07-24 18.54.53.excalidraw.md",
-    "Excalidraw/Drawing 2023-07-24 18.54.53.excalidraw.png",
-    "Excalidraw"
+    "Excalidraw/Drawing 2023-07-24 18.54.53.excalidraw.md"
   ]
 }

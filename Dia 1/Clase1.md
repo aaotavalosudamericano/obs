@@ -1,4 +1,3 @@
-
 <h1>AI y ChatGPT</h1>
 <h2> Descripción</h2>
 <h7>Concepto de Inteligencia Artificial, aprendizaje automático y procesamiento del lenguaje natural, ChatGPT y su importancia en le campo de la IA. </h7>
